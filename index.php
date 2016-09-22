@@ -4,10 +4,17 @@
 <meta charset="UTF-8">
 <title>home</title>
 </head>
-<h1> hello </h1>
-<p>page 1</p>
-<hr>
-<p> footer content here </p>
+
 <body>
+
+<?php
+
+include 'menu.php';
+
+?>
+
+<h1> Home</h1>
+<p>page 1</p>
+
 </body>
 </html>
