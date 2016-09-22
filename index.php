@@ -8,13 +8,14 @@
 <body>
 
 <?php
-
 include 'menu.php';
-
 ?>
 
 <h1> Home</h1>
 <p>page 1</p>
 
+<?php
+require 'footer.php';
+?>
 </body>
 </html>

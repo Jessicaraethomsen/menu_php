@@ -8,9 +8,11 @@
 <?php
 include 'menu.php';
 ?>
+
 <h1> about </h1>
 <p>page 2</p>
-<hr>
-<p> footer content here </p>
+<?php
+require 'footer.php';
+?>
 </body>
 </html>

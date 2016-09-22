@@ -11,8 +11,9 @@ include 'menu.php';
 ?>
 
 <h1> Services </h1>
-<p>page 2</p>
-<hr>
-<p> footer content here </p>
+<p>page 3</p>
+<?php
+require 'footer.php';
+?>
 </body>
 </html>
