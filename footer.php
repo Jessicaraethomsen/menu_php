@@ -1,3 +1,3 @@
 
 <hr>
-<p>Jessica Rae Thomsen &copy;2016</p>
+<p>Jessica Rae Thomsen &copy; 2016</p>

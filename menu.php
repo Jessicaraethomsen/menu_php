@@ -10,10 +10,10 @@
 ?>
 
 <ul>
-<il> <a href="index.php"<?php if($curpage == 'index.php') {echo 'class="active"'; }?>> Home </a></il>
-<il> <a href="about.php"<?php if($curpage == 'about.php') {echo 'class="active"'; }?>>  About</a></il>
-<il> <a href="services.php"<?php if($curpage == 'service.php') {echo '"class=active"'; }?>> Services </a></il>
-<il> <a href="blog.php"<?php if($curpage == 'blog.php') {echo 'class="active"'; }?>> Blog </a></il>
-<il> <a href="contact.php"<?php if($curpage == 'contact.php') {echo 'class="active"'; }?>> Contact </a></il>
+<li> <a href="index.php"<?php if($curpage == 'index.php') {echo 'class="active"'; }?>> Home </a></li>
+<li> <a href="about.php"<?php if($curpage == 'about.php') {echo 'class="active"'; }?>>  About</a></li>
+<li> <a href="services.php"<?php if($curpage == 'services.php') {echo 'class="active"'; }?>> Services </a></li>
+<li> <a href="blog.php"<?php if($curpage == 'blog.php') {echo 'class="active"'; }?>> Blog </a></li>
+<li> <a href="contact.php"<?php if($curpage == 'contact.php') {echo 'class="active"'; }?>> Contact </a></li>
 </ul>
 
