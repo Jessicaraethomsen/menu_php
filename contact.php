@@ -3,10 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <title>Contact</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
 <?php
+$curpage ='contact.php';
+
 include 'menu.php';
 ?>
 

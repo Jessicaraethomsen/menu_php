@@ -3,10 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <title>Home</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
 <?php
+$curpage ='blog.php';
+
 include 'menu.php';
 ?>
 
